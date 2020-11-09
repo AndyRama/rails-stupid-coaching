@@ -1,0 +1,20 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+border: 2px  solide gray;
+}
+.btn {
+ color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: #1EDD88;
+}
+
+.search {
+  position: relative;
+  height: 30px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  border: 1px solid #E7E7E7;
+}
